@@ -1,0 +1,209 @@
+{
+  "version": "3.0.0",
+  "site": "El Fortín Minero",
+  "models": [
+    {
+      "source": "CanchaMedia(3).glb",
+      "project": "models/CanchaMedia.glb",
+      "sha256": "0f04e3e33dfcc2f95745c62b04d2ca15e81741780729e2621cd2403d5eed94e3"
+    },
+    {
+      "source": "M23demarzo(2).glb",
+      "project": "models/mascota-23-marzo.glb",
+      "sha256": "3ac53fe2b3b3dbb08f3a5f153531426b7389a5f3a5c61653e1e1198d72281110"
+    },
+    {
+      "source": "Mballivian(2).glb",
+      "project": "models/mascota-ballivian.glb",
+      "sha256": "10a6262e0913cbcd409285d07fefe3e96e836bd581ab69fadc9024f946c9b859"
+    },
+    {
+      "source": "Mracing(2).glb",
+      "project": "models/mascota-racing.glb",
+      "sha256": "c4e3db5b27fecde20774b943c5deab2fcd4f2ae82b83903b02485ffc56414d31"
+    },
+    {
+      "source": "serrafin(3).glb",
+      "project": "models/serrafin.glb",
+      "sha256": "36d0d87813b3186dbea4da6370fe061a5a489f75fa3a936e2bf52499e34b5158"
+    },
+    {
+      "source": "23LogoOficial(2).glb",
+      "project": "models/logo-23-marzo.glb",
+      "sha256": "13d30500cf6e022139f617763bd750783f8e7ddb94423cfc2ccc8e0011f11448"
+    },
+    {
+      "source": "BallibiamLogoOficial(2).glb",
+      "project": "models/logo-ballivian.glb",
+      "sha256": "8754d2319a208a58a0d3883e3f7c3a0577eb7073119100cfe1554a4016564512"
+    },
+    {
+      "source": "RacingLogoOficial(2).glb",
+      "project": "models/logo-racing.glb",
+      "sha256": "b81a8909bc298927000deb891ea2c47f6cfa0f786375f6c553b6ad7a1107b253"
+    },
+    {
+      "source": "LogoAsociasion.glb",
+      "project": "models/logo-asociacion.glb",
+      "sha256": "b520eaa8e255525e58bc1480ede2d171f6589d53ea46c589c168b37dbaf843b9"
+    },
+    {
+      "source": "23demarzo.glb",
+      "project": "models/23demarzo.glb",
+      "sha256": "3c26680865d9f1fa8b93ecef2803682600fe24ed5b688c25028650e294e1a9c6",
+      "note": "Zona conservada de V2"
+    },
+    {
+      "source": "asociacion.glb",
+      "project": "models/asociacion.glb",
+      "sha256": "74b4bf321c32ed34516fb6649b638c649dff492cbd7b07440f23a4c2ff805836",
+      "note": "Zona conservada de V2"
+    },
+    {
+      "source": "balliviam.glb",
+      "project": "models/balliviam.glb",
+      "sha256": "9134aa20382feeb785f28f3be3588058e8f6409f789388ff14703c22fec80716",
+      "note": "Zona conservada de V2"
+    },
+    {
+      "source": "racing.glb",
+      "project": "models/racing.glb",
+      "sha256": "69dbd84cbd57397cebf4a73d134e35919a86607ab6705025ed60296b53791335",
+      "note": "Zona conservada de V2"
+    },
+    {
+      "source": "gansters-uncia.glb",
+      "project": "models/club-gangsters-uncia.glb",
+      "sha256": "699f4fda01fb947f65f325e376b64a817431090f5460c6e2582e2657dd22a38b",
+      "note": "Escudo 3D corregido recibido para la segunda galería V3.1"
+    },
+    {
+      "source": "unsxx-tau.glb",
+      "project": "models/club-unsxx-tau.glb",
+      "sha256": "ded056e84523c2e19c11169d4b504da69721fe29e35ba0cfed30677e51cd7098",
+      "note": "Escudo 3D corregido recibido para la segunda galería V3.1"
+    },
+    {
+      "source": "real-chuquihuta.glb",
+      "project": "models/club-real-chuquihuta.glb",
+      "sha256": "939e0760f656147c4fcf3b1853e5d31f64659bd19b4d4beb6618fcc087561046",
+      "note": "Escudo 3D corregido recibido para la segunda galería V3.1"
+    },
+    {
+      "source": "racing-pejtus.glb",
+      "project": "models/club-racing-pejtus.glb",
+      "sha256": "f770be4f8622452ee2ec4d56b09f4c19757a01f97912e32b339300824af51d69",
+      "note": "Escudo 3D corregido recibido para la segunda galería V3.1"
+    },
+    {
+      "source": "huracan-catavi.glb",
+      "project": "models/club-huracan-catavi.glb",
+      "sha256": "95856a6ad0212dfb1d30a419b219a672fccc975a2f0386169a7ec33f95578146",
+      "note": "Escudo 3D corregido recibido para la segunda galería V3.1"
+    },
+    {
+      "source": "atletico-huracan.glb",
+      "project": "models/club-atletico-huracan.glb",
+      "sha256": "8d61062e7b9048fbe453ac650532d2853007eb67e4517c534230bba9f4147be6",
+      "note": "Escudo 3D corregido recibido para la segunda galería V3.1"
+    },
+    {
+      "source": "villa-real-sauta.glb",
+      "project": "models/club-villa-real-sauta.glb",
+      "sha256": "79b9f744babd36dbb0e3791aff28783971cb7c84905ca3bc352f50045a8e2016",
+      "note": "Escudo 3D corregido recibido para la segunda galería V3.1"
+    },
+    {
+      "source": "deportivo-bustillo.glb",
+      "project": "models/club-deportivo-bustillo.glb",
+      "sha256": "c18b9694e112cf920b1a98fff4377e4286096d8e5bfa2327db6371c13a940728",
+      "note": "Escudo 3D corregido recibido para la segunda galería V3.1"
+    },
+    {
+      "source": "atletico-panakkachi.glb",
+      "project": "models/club-atletico-panakkachi.glb",
+      "sha256": "43621606a83cfce843c534b6c45f3aef2540358b1ad84e9761a210b6249988eb",
+      "note": "Escudo 3D corregido recibido para la segunda galería V3.1"
+    },
+    {
+      "source": "club-mar.glb",
+      "project": "models/club-mar.glb",
+      "sha256": "852351423613579447da8cd434e76f272fd1dd6816fbc0f10625ed67612cae9e",
+      "note": "Escudo 3D corregido recibido para la segunda galería V3.1"
+    },
+    {
+      "source": "humgaros.glb",
+      "project": "models/club-humgaros.glb",
+      "sha256": "84ee5f8a589f36ede28d1c9523b7969641625bb32f9b373ebb9b5a4520f75c18",
+      "note": "Escudo 3D corregido recibido para la segunda galería V3.1"
+    }
+  ],
+  "logo": {
+    "source": "logoPagina Web.png",
+    "project": "assets/logo-afll.png",
+    "sha256": "fb1d84ade5daaccf4292a51369686a0799cae83436b843cf9dddb880b21e0d89"
+  },
+  "audio": {
+    "source": "musicaPaginaWeb.m4a",
+    "project": "assets/audio/musica-fortin.m4a",
+    "sha256": "69a82e2e8102053f6eeacc103a4c97c31c41d0335874d2b93650c991f5056277",
+    "note": "El otro M4A adjunto tiene los mismos bytes; se incluye una sola pista. MP3 y OGG son conversiones del mismo audio."
+  },
+  "clubImages": [
+    {
+      "source": "ATLETICO HURACAN'.jpeg",
+      "project": "assets/clubs/atletico-huracan.jpg",
+      "sha256": "91555992027512da16b7d48dedad0ad1ea063f9ee3f5904801c23c749d0e990b"
+    },
+    {
+      "source": "ATLETICO PHANACACHI.jpeg",
+      "project": "assets/clubs/atletico-panakkachi.jpg",
+      "sha256": "16896497aafe0ba44016a1a4acf5b8a1adeed0b43cf7592816d35232c6c8f8c2"
+    },
+    {
+      "source": "CLUB DEPORTIVO BUSTILLO.jpeg",
+      "project": "assets/clubs/deportivo-bustillo.jpg",
+      "sha256": "c419d3ea8ee4b5a0fe74d7fd47c6dfbbd98cceaef346176d525ebcdb3352d45c"
+    },
+    {
+      "source": "CLUB GANSTERS UNCIA.jpeg",
+      "project": "assets/clubs/gangsters-uncia.jpg",
+      "sha256": "f79a2e10314ad08f3d4fc466edb15c3671166e4ff5b56f9fc6b1790dc51d2008"
+    },
+    {
+      "source": "CLUB HURACAN.jpeg",
+      "project": "assets/clubs/huracan-catavi.jpg",
+      "sha256": "12ed1c83be3670369998096ba76c2456b1264021ceb90ca453fe71d37135e383"
+    },
+    {
+      "source": "CLUB MAR.jpeg",
+      "project": "assets/clubs/club-mar.jpg",
+      "sha256": "4f58323407f00d4518d6a2f9e66d7026c85629d0f30fc3ea216dce3cb97fa196"
+    },
+    {
+      "source": "HUMGAROS.jpeg",
+      "project": "assets/clubs/humgaros.jpg",
+      "sha256": "53c53a1027ec5e6aa7b2c6c2c9bd0fee95db7c877f521878341c822cdc91478e"
+    },
+    {
+      "source": "RACING PEJTUS.jpeg",
+      "project": "assets/clubs/racing-pejtus.jpg",
+      "sha256": "1b68fab9d7969aac167f68843a98a407f7d21c47d621ec7bb8c79e10511beb26"
+    },
+    {
+      "source": "REAL CHUQUIHUTA.jpeg",
+      "project": "assets/clubs/real-chuquihuta.jpg",
+      "sha256": "d5c87df1d3336b7dbe97076fb46d7c465687b1fe07ca2ddef3b18e6948ed8796"
+    },
+    {
+      "source": "UNS XX TAU.jpeg",
+      "project": "assets/clubs/unsxx-tau.jpg",
+      "sha256": "6992f87062d4699854307a8562f207a65e4922f76c0d24216368cb357ca99811"
+    },
+    {
+      "source": "VILLA REAL SAUTA.jpeg",
+      "project": "assets/clubs/villa-real-sauta.jpg",
+      "sha256": "9248d185b041e62493d7b9473718dca23c88e0de28c3ea12d5e7dacbece5bea0"
+    }
+  ]
+}
